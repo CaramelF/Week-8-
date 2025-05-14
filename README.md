@@ -51,9 +51,10 @@ pip install pandas matplotlib seaborn plotly geopandas
 
 ## How to Use
 
-1. Place `owid-covid-data.csv` in the same directory as the notebook.
-2. Open [covid_data.ipynb](covid_data.ipynb) in Jupyter Notebook or VS Code.
-3. Run the notebook cells to perform the analysis and view the visualizations.
+1. Download the week 8 zip file
+2. Place `owid-covid-data.csv` in the same directory as the notebook.
+3. Open [covid_data.ipynb](covid_data.ipynb) in Jupyter Notebook or VS Code.
+4. Run the notebook cells to perform the analysis and view the visualizations.
 
 ## Notes
 
